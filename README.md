@@ -8,5 +8,5 @@ Hej och välkommen till detta repo! Har du några frågor så vet jag inte men s
 - [x] Skapa feature-branch from develop
 - [x] Skapa checklista i feature-branch
 - [x] Gör commit och push till feature-branch
-- [ ] Skapa pull request och granska
+- [x] Skapa pull request och granska
 - [x] Merge feature-branch in i develop
